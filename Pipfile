@@ -11,6 +11,3 @@ sqlalchemy = "*"
 psycopg2 = "*"
 
 [dev-packages]
-
-[requires]
-python_version = "3.9"
